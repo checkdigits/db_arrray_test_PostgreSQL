@@ -14,7 +14,7 @@ uses
   Vcl.ExtCtrls, System.Skia, System.ImageList, Vcl.ImgList,
   Vcl.Imaging.pngimage;
 
-{$DEFINE IANB}
+{.$DEFINE IANB}
 
 type
   TForm1 = class(TForm)
